@@ -1,6 +1,10 @@
 ## 📌 Overview
 
-QR-Generator is a project that generates QR codes using qrcode.react library. It utilizes react and related dependencies for development and testing.
+The project is a QR code generator built using React. Its functionality is straightforward and efficient: users input a URL into the text entry field. As they type, the application dynamically updates the QR code associated with that URL in real-time. 
+
+The interface features a text input field for the URL, a download button, and an area where the QR code is visually displayed. The download button allows users to save the generated QR code as a PNG image. 
+
+Additionally, the application provides a seamless user experience by visually centering the elements and applying appealing styles. Developed with flexibility and ease of use in mind, the QR code generator enables users to quickly create customized QR codes for their links.
 
 
 ## 🚀 Run Locally
