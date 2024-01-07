@@ -15,7 +15,7 @@ npm install
 
 ## ☁️ Deploy
 
-`[QR Generator]((https://gen-qr.vercel.app))`
+[QR Generator](https://gen-qr.vercel.app)
 
 ## 📄 License
 
